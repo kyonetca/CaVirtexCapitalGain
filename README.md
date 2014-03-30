@@ -13,7 +13,6 @@ $ python capitalGain.py
 
 The script will generate a report file tax_report_20XX.csv for each year you sold bitcoins on CaVirtex.
 
-Disclamer
-=========
+## Disclamer
 
 Use at your own risk. If you traded Litecoins the report may not be accurate. I'm not affiliated with CaVirtex. 
